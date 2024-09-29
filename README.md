@@ -39,6 +39,7 @@ No server setup is required as this is a static implementation.
 **Customization**
 
 You can customize the project by:
+
 Replacing the placeholder images with actual content
 
 Modifying the CSS styles to change colors, layouts, or animations
