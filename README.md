@@ -50,8 +50,11 @@ This is a frontend-only implementation and does not include any backend function
 
 Possible improvements for this project could include:
 Making the layout fully responsive for various screen sizes
+
 Implementing dark mode
+
 Adding JavaScript for search functionality and video playback
+
 Creating additional pages like video player, channel pages, etc.
 
 **Contributors**
