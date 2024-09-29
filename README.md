@@ -14,7 +14,9 @@ The project consists of a single HTML file with embedded CSS styles. The main co
 **Header**
 
 Left section: hamburger menu and YouTube logo
+
 Middle section: search bar with voice search option
+
 Right section: upload, YouTube apps, notifications, and user profile picture
 
 **Sidebar**
